@@ -5,3 +5,5 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal3.gt" group-title="General",Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt" group-title="General",Canal 7
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8

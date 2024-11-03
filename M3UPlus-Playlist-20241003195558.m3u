@@ -3,8 +3,8 @@
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="Azteca Guatemala" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="General",Azteca Guatemala
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Canal3.gt" tvg-name="Canal APlusGuate" tvg-logo="" group-title="General",Canal APlusGuate
-https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Cana3.gt" tvg-name="Canal APlusGuate" tvg-logo="" group-title="General",Canal 3
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="CanalICH.gt" tvg-name="Canal Ixchiguan tv" tvg-logo="" group-title="General",Canal Ixchiguan tv
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-id="CanalTM.gt" tvg-name="Canal TV Maya" tvg-logo="" group-title="General",Canal TV Maya
@@ -12,7 +12,7 @@ https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="Canalbarbe.gt" tvg-name="Canal Barberena Tv" tvg-logo="" group-title="General",Canal Barberena Tv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="Canal7.gt" tvg-name="Canal 7" tvg-logo="" group-title="General",Canal 7
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/live2/alba-gt-chapintv-c7_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="CanalGTV.gt" tvg-name="Canal GTV" tvg-logo="" group-title="General",Canal GTV
 https://vdo1.panelstreaming.live:3820/live/gtvlive.m3u8
 #EXTINF:-1 tvg-id="CanalTV.gt" tvg-name="Canal TOTO Vision" tvg-logo="" group-title="General",Canal TOTO Vision
@@ -44,15 +44,15 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/65
 #EXTINF:-1 tvg-id="CanalYT.gt" tvg-name="Canal YEPO TV" tvg-logo="" group-title="General",Canal YEPO TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/68
 #EXTINF:-1 tvg-id="CanalTN23.gt" tvg-name="Canal TN 23" tvg-logo="" group-title="General",Canal TN 23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/480p.m3u8
+https://d4bee8qaav6x0.cloudfront.net/live2/alba-gt-chapintv-tn23_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="CanalNC.gt" tvg-name="Canal Nicoya TV" tvg-logo="" group-title="General",Canal Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalNS.gt" tvg-name="Canal Nosara TV" tvg-logo="" group-title="General",Canal Nosara TV
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Canal24h.gt" tvg-name="Canal 24 Horas Internacional" tvg-logo="" group-title="General",Canal 24 Horas Internacional
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalAZI.gt" tvg-name="Canal Azteca Internacional" tvg-logo="" group-title="General",Canal Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="CanaA.gt" tvg-name="Canal APlusGuate" tvg-logo="" group-title="General",Canal APlusGuate
+https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal27.gt" tvg-name="Canal 27" tvg-logo="" group-title="General",Canal 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 #EXTINF:-1 tvg-id="CanalEnlace.gt" tvg-name="Canal Enlace" tvg-logo="" group-title="General",Canal Enlace
@@ -61,6 +61,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMX.gt" tvg-name="Canal 13 Max" tvg-logo="" group-title="General",Canal 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal24h.gt" tvg-name="Canal 24 Horas Internacional" tvg-logo="" group-title="General",Canal 24 Horas Internacional
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalCN.gt" tvg-name="Canal Cinerama" tvg-logo="" group-title="General",Canal Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTV.gt" tvg-name="Canal Tele Valencia" tvg-logo="" group-title="General",Canal Tele Valencia

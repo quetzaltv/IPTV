@@ -38,7 +38,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-id="CanalLE.gt" tvg-name="Canal Las Estrellas" tvg-logo="" group-title="General",Canal Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CanalTM.gt" tvg-name="Canal Tele Mundo" tvg-logo="" group-title="General",Canal Tele Mundo
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ag.gt" tvg-name="Azteca Guatemala" tvg-logo="" group-title="General",Canal Azteca Guatemala
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="ap.gt" tvg-name="EstrellaTV" tvg-logo="" group-title="General",Estrella TV
